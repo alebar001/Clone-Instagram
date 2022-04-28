@@ -1,5 +1,4 @@
 # Clone do Instagram
-Atividade desenvolvida com o uso de CSS e Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade.
-
+Recriardo Interface de acesso do Instagram usando CSS e Flexbox
 # Layout Gráfico
-![Instagram](https://user-images.githubusercontent.com/102175591/165818634-9dd83bd7-fc2b-4256-8814-831cf35cde75.PNG)
+![3](https://user-images.githubusercontent.com/102175591/165846848-eb514837-b34d-467b-8f3c-0990da24abea.png)
